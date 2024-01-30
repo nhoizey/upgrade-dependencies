@@ -1,0 +1,20 @@
+{
+  "name": "upgrade-dependencies",
+  "version": "3.0.0",
+  "title": "A GitHub Action to upgrade npm dependencies, used by other repositories",
+  "author": {
+    "name": "Nicolas Hoizey",
+    "email": "nicolas@hoizey.com",
+    "url": "https://nicolas-hoizey.com/"
+  },
+  "license": "MIT",
+  "homepage": "https://nicolas-hoizey.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nhoizey/upgrade-dependencies"
+  },
+  "scripts": {
+    "test": "echo \"No test script yet\"",
+    "build": "echo \"No build script yet\""
+  }
+}
